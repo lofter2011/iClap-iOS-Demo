@@ -1,0 +1,10 @@
+PODS:
+  - iClap (1.8.0)
+
+DEPENDENCIES:
+  - iClap (~> 1.8.0)
+
+SPEC CHECKSUMS:
+  iClap: 1c46e78de947c8d6b7572962d3db86e44cfdd9c9
+
+COCOAPODS: 0.37.2
